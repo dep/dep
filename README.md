@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @dep
-- 👀 I’m interested in things.
-- 🌱 I’m currently learning how to live.
-- 💞️ I’m looking to collaborate on stuff.
-
-<a rel="me" href="https://infosec.exchange/@dep">Mastodon</a>
+Been doing this for so long I don't even know what's real anymore.
 
 <!---
 dep/dep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
